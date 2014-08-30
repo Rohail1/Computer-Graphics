@@ -18,6 +18,8 @@ void initializewindow(){
 	glutInitWindowPosition(50, 50);
 	glutCreateWindow("HEllo World BAT");
 
+	//Hi this is me hello
+
 }
 
 void registercallbacks(){

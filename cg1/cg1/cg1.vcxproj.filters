@@ -19,4 +19,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Rohail\Downloads\S- CG Lab -08 Aug 2014 _ 2D primitives\S- CG Lab -08 Aug 2014 _ 2D primitives\wav.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

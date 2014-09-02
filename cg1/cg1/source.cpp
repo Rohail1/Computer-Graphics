@@ -4,6 +4,8 @@
 #include<stdlib.h>
 #include<glut.h>
 #include<RGBPixMap.h>
+#include<Windows.h>
+#include "wav.h"
 #define pi 3.543
 using namespace std;
 
@@ -76,6 +78,7 @@ void main(int agrc, char *argv[])
 	initializewindow();
 	registercallbacks();
 	initGL();
+	PlayBackgroundSound("backmusic.wav");
 	//pix[0].readBMPFile("bg.bmp");
 	glutMainLoop();
 
